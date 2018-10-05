@@ -10,3 +10,5 @@ import Foundation
 
 print("Hello, World!")
 
+let name = "Ramu"
+print(name)
